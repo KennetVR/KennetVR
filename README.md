@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,33:00d4ff,66:a855f7,100:0d1117&height=220&section=header&text=KENNET%20VILLANES&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Estudiante%20de%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=55&animation=twinkling&duration=2s" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,33:ff8c42,66:ffd166,100:0d1117&height=220&section=header&text=KENNET%20VILLANES&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Estudiante%20de%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=55&animation=twinkling&duration=2s" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy Kennet Anderson Villanes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+System.out.println(%22Welcome+to+my+profile!%22)%3B%3E+passion+%3D+%22Building+solutions%22%3B%3E+mindset+%3D+%22Never+stop+learning%22%3B%3E+status+%3D+%22Open+to+opportunities%22%3B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&lines=%3E+System.out.println(%22Welcome+to+my+profile!%22)%3B%3E+passion+%3D+%22Building+solutions%22%3B%3E+mindset+%3D+%22Never+stop+learning%22%3B%3E+status+%3D+%22Open+to+opportunities%22%3B" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KennetVR&label=Profile%20Views&color=00d4ff&style=for-the-badge&label_color=0d1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Learning-Fast-orange?style=for-the-badge&color=22c55e&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/%F0%9F%91%8F%20Coding-Every%20Day-purple?style=for-the-badge&color=a855f7&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=KennetVR&label=Profile%20Views&color=ff8c42&style=for-the-badge&label_color=0d1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Learning-Fast-orange?style=for-the-badge&color=ff8c42&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%8F%20Coding-Every%20Day-orange?style=for-the-badge&color=ffd166&labelColor=0d1117" />
 </p>
 
 ---
@@ -19,19 +19,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-swm129.vercel.app/api?username=KennetVR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats-swm129.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats-swm129.vercel.app/api?username=KennetVR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=ff8c42&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
+  <img src="https://github-readme-stats-swm129.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KennetVR&theme=tokyonight&hide_border=true&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=555555&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=KennetVR&theme=tokyonight&hide_border=true&ring=ff8c42&fire=ffd166&currStreakLabel=ff8c42&sideLabels=e6edf3&dates=888888&background=0d1117" />
 </p>
 
 ---
 
 ### 💡 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KennetVR&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/KennetVR)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KennetVR&bg_color=0d1117&color=ff8c42&line=ffd166&point=ffffff&area=true&hide_border=true)](https://github.com/KennetVR)
 
 ---
 
@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,33:00d4ff,66:a855f7,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,33:ff8c42,66:ffd166,100:0d1117&height=120&section=footer" />
 </p>

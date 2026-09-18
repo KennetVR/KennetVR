@@ -78,8 +78,6 @@
 - **🐾 PETCARE** — Aplicación para veterinarias: gestión de mascotas, citas y productos. `Kotlin` `Firebase` `Room`
 - **🗺️ Family Tracker** — App de seguimiento GPS familiar en tiempo real. `React Native` `Firebase`
 
-> 💡 *Para que los proyectos se vean como tarjetas dentro del README, se recomienda hacer públicos `PETCARE` y `family-tracker` (Settings → Danger Zone → Change visibility) y agregarlos como "Pinned".*
-
 ---
 
 ### 🐍 Contribution Snake

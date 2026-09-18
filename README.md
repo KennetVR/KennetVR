@@ -19,8 +19,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-swm129.vercel.app/api?username=KennetVR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=ff8c42&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
-  <img src="https://github-readme-stats-swm129.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KennetVR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=ff8c42&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=ff8c42&text_color=e6edf3&bg_color=0d1117" />
 </p>
 
 <p align="center">

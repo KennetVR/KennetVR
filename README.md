@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/Per%C3%BA-4C98DB?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kennet-anderson-villanes-ramirez-6a32a4207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ## 🚀 Sobre mí
 
 Soy **desarrollador de software** apasionado por crear aplicaciones que resuelven problemas reales. Me enfoco en el desarrollo de **apps móviles y web**, con experiencia construyendo soluciones de principio a fin: desde la idea hasta la publicación.
@@ -26,13 +32,19 @@ Soy **desarrollador de software** apasionado por crear aplicaciones que resuelve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennetVR&show_icons=true&theme=dracula&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KennetVR&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennetVR&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## 📫 Contacto
 
-¡Siempre abierto a colaborar en proyectos interesantes! Puedes contactarme a través de mi perfil de GitHub.
+¡Siempre abierto a colaborar en proyectos interesantes!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kennet-anderson-villanes-ramirez-6a32a4207/">
+    <img src="https://img.shields.io/badge/Con%C3%A9ctate%20en%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
